@@ -1,3 +1,8 @@
-# Perceptron-Implementation
-Implementation of Perceptron using Github
+# OneNeuron
+Perceptron
 
+# commands used -
+
+```bash
+git add . && git commit -m "docstring updated" && git push origin main
+```
